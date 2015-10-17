@@ -1,0 +1,12 @@
+/* 
+programmer = keith Murphy
+file = hexStyles.scss
+date Created = 3-18-2015
+last Mod = 3-18-2015
+*/
+/* line 11, ../_/components/sass/hexStyles.scss */
+#info li {
+  cursor: pointer; }
+  /* line 13, ../_/components/sass/hexStyles.scss */
+  #info li a {
+    cursor: pointer; }
